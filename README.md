@@ -79,5 +79,5 @@ cv2.destroyAllWindows()
 
 <hr>
 
-# Hope you like it.
+# Hope you liked it.
 
